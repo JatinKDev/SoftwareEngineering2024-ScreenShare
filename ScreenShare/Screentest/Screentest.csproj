@@ -22,6 +22,8 @@
 	  <ProjectReference Include="..\ScreenShare\ScreenShare.csproj" />
 	</ItemGroup>
 
+	
+
 
 
 	<ItemGroup>
